@@ -1,8 +1,8 @@
 
-##Final Project Report for Web Scraping and Social Media Scraping Class
+# Final Project Report for Web Scraping and Social Media Scraping Class
 
-Kathryn Nagiel
-Student’s Book Number: 444425
+</br> Kathryn Nagiel </br> </br>
+</br> Student’s Book Number: 444425 </br></br>
 
 Yufei Sun
 Student’s Book Number: 426201
