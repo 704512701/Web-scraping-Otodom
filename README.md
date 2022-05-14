@@ -1,13 +1,15 @@
-																				Otodom Property Listing Scraper
 
-																							Kathryn Nagiel
-																		Student’s Book Number: 444425
+Final Project Report for Web Scraping and Social Media Scraping Class
 
-																							Yufei Sun
-																		Student’s Book Number: 426201
+Kathryn Nagiel
+Student’s Book Number: 444425
 
-																							Zhao Zhe
-																	  Student’s Book Number: 433707
+Yufei Sun
+Student’s Book Number: 426201
+
+Zhao Zhe
+Student’s Book Number: 433707
+
 
 The website we have chosen to scrape is https://www.otodom.pl. On this website, we will filter for "homes for sale in Mazowieckie region" and begin the scraping here. 
 
